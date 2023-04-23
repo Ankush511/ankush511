@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_k.ankushhh_" target="blank"><img src="https://img.shields.io/twitter/follow/_k.ankushhh_?logo=twitter&style=for-the-badge" alt="_k.ankushhh_" /></a> </p>
 
-- 🔭 I’m currently working on **Briefly - News App**
+- 🔭 I’m currently working on **NoteDown**
 
 - 🌱 I’m currently learning **React, Data Structures and Algorithms, Swift & SwiftUI**
 
