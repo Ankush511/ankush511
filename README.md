@@ -11,7 +11,7 @@
 
 - 🔗 LinkedIn profile [https://www.linkedin.com/in/ankush-kashyap-7b559a210/](https://www.linkedin.com/in/ankush-kashyap-7b559a210/)
 
-- 💬 Ask me about **React, DSA, Javascript**
+- 💬 Ask me about **DSA, Javascript, React**
 
 - 📫 How to reach me **ankushkashyap511@gmail.com**
 
