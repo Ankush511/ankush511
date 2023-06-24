@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/_k.ankushhh_" target="blank"><img src="https://img.shields.io/twitter/follow/_k.ankushhh_?logo=twitter&style=for-the-badge" alt="_k.ankushhh_" /></a> </p>
 
-- 🔭 I’m currently working on **DALL-E Verse**
+- 🔭 I’m currently working on **Global-Connect**
 
 - 🌱 I’m currently learning **React, Data Structures and Algorithms, Swift & SwiftUI**
 
 - 🔗 LinkedIn profile [https://www.linkedin.com/in/ankush-kashyap-7b559a210/](https://www.linkedin.com/in/ankush-kashyap-7b559a210/)
 
-- 💬 Ask me about **DSA, Javascript, React**
+- 💬 Ask me about **DSA, Javascript, React, Python**
 
 - 📫 How to reach me **ankushkashyap511@gmail.com**
 
