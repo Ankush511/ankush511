@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush511&label=Profile%20views&color=0e75b6&style=flat" alt="ankush511" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_k.ankushhh_" target="blank"><img src="https://img.shields.io/twitter/follow/_k.ankushhh_?logo=twitter&style=for-the-badge" alt="_k_ankushh_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/[_k_ankushh_](https://twitter.com/_k_ankushh_)" target="blank"><img src="https://img.shields.io/twitter/follow/_k.ankushhh_?logo=twitter&style=for-the-badge" alt="_k_ankushh_" /></a> </p>
 
 - 🔭 I’m currently working on **Closet-Shop**
 
