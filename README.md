@@ -1,5 +1,5 @@
-<h1 align="center">Hi everyone 👋, I'm Ankush Kashyap</h1>
-<h3 align="center">A computer science student passionate about technology, programming, and problem-solving. Excited to create a positive impact through innovation.</h3>
+<h1 align="center" style="color: #fff">Hi everyone 👋, I'm Ankush Kashyap</h1>
+<h3 align="center" style="color: #fff">A computer science student passionate about technology, programming, and problem-solving. Excited to create a positive impact through innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush511&label=Profile%20views&color=0e75b6&style=flat" alt="ankush511" /> </p>
 
