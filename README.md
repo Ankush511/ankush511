@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Guild-Chat**
 
-- 🌱 I’m currently learning **React, Data Structures and Algorithms, Swift & SwiftUI**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Data Analytics**
 
 - 🔗 LinkedIn profile [https://www.linkedin.com/in/ankush-kashyap-7b559a210/](https://www.linkedin.com/in/ankush-kashyap-7b559a210/)
 
-- 💬 Ask me about **DSA, Javascript, React, Python**
+- 💬 Ask me about **DSA, Javascript, Python**
 
 - 📫 How to reach me **ankushkashyap511@gmail.com**
 
