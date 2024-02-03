@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Guild-Chat**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Data Analytics**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Data Science, Data Analytics.**
 
 - 🔗 LinkedIn profile [https://www.linkedin.com/in/ankush-kashyap-7b559a210/](https://www.linkedin.com/in/ankush-kashyap-7b559a210/)
 
-- 💬 Ask me about **DSA, Javascript, Python**
+- 💬 Ask me about **DSA, Machine Learning, Python, SQL.**
 
-- 📫 How to reach me **ankushkashyap511@gmail.com**
+- 📫 How to reach me **511ankush007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
