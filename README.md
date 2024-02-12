@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_k_ankushh_/" target="blank"><img src="https://img.shields.io/twitter/follow/_k_ankushh_?logo=twitter&style=for-the-badge" alt="_k_ankushh_" /></a> </p>
 
-- 🔭 I’m currently working on **Guild-Chat**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Data Science, Data Analytics.**
 
