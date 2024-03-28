@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Data Science, Data Analytics.**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning and Data Science.**
 
-- 🔗 LinkedIn profile [https://www.linkedin.com/in/ankush-kashyap-7b559a210/](https://www.linkedin.com/in/ankush-kashyap-7b559a210/)
+- 🔗 LinkedIn profile [https://www.linkedin.com/in/ankush-kashyap-7b559a210/](https://www.linkedin.com/in/ankushhh/)
 
 - 💬 Ask me about **DSA, Machine Learning, Python, SQL.**
 
