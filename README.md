@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/_k_ankushh_/" target="blank"><img src="https://img.shields.io/twitter/follow/_k_ankushh_?logo=twitter&style=for-the-badge" alt="_k_ankushh_" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science.**
+- 🌱 I’m currently learning **Gen AI, Machine Learning, Deep Learning and Data Science.**
 
 - 🔗 LinkedIn profile [https://www.linkedin.com/in/ankush-kashyap-7b559a210/](https://www.linkedin.com/in/ankushhh/)
 
